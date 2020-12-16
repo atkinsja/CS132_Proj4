@@ -1,0 +1,100 @@
+Last Name: Frankenstein
+First Name: Andy
+Social Security Number: 113-45-4578
+Age: 32
+Number of dependents: 3
+Employee code: F
+Hourly pay rate: 6.5
+Hours worked: 30
+
+
+Last Name: Carter
+First Name: James
+Social Security Number: 120-33-7685
+Age: 45
+Number of dependents: 3
+Employee code: O
+Hourly pay rate: 2.35
+Hours worked: 50
+
+
+Last Name: Alcott
+First Name: Laurence
+Social Security Number: 228-87-3490
+Age: 65
+Number of dependents: 2
+Employee code: S
+Hourly pay rate: 9
+Hours worked: 25
+
+
+Last Name: Perkins
+First Name: Anthony
+Social Security Number: 119-56-9997
+Age: 29
+Number of dependents: 1
+Employee code: F
+Hourly pay rate: 7.5
+Hours worked: 45
+
+
+Last Name: Magellan
+First Name: Louise
+Social Security Number: 222-45-3333
+Age: 23
+Number of dependents: 1
+Employee code: O
+Hourly pay rate: 2.7
+Hours worked: 50
+
+
+Last Name: George
+First Name: Robert
+Social Security Number: 238-67-2398
+Age: 34
+Number of dependents: 1
+Employee code: S
+Hourly pay rate: 6
+Hours worked: 38
+
+
+Last Name: Harolds
+First Name: Harold
+Social Security Number: 450-69-2323
+Age: 38
+Number of dependents: 4
+Employee code: O
+Hourly pay rate: 3.05
+Hours worked: 10
+
+
+Last Name: Stevens
+First Name: Thomas
+Social Security Number: 790-33-3498
+Age: 56
+Number of dependents: 7
+Employee code: F
+Hourly pay rate: 9.5
+Hours worked: 52
+
+
+Last Name: Quentin
+First Name: James
+Social Security Number: 889-12-3278
+Age: 51
+Number of dependents: 2
+Employee code: F
+Hourly pay rate: 5.5
+Hours worked: 32
+
+
+Last Name: Zyros
+First Name: Bhoutros
+Social Security Number: 999-45-1111
+Age: 49
+Number of dependents: 6
+Employee code: O
+Hourly pay rate: 5.6
+Hours worked: 70
+
+

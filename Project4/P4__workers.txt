@@ -1,0 +1,70 @@
+Frankenstein, Andy
+113-45-4578
+32
+3
+F
+6.50
+30
+Perkins, Anthony
+119-56-9997
+29
+1
+F
+7.50
+45
+Carter, James
+120-33-7685
+45
+3
+O
+2.35
+50
+Alcott, Laurence
+228-87-3490
+65
+2
+S
+9.00
+25
+Magellan, Louise
+222-45-3333
+23
+1
+O
+2.7
+50
+George, Robert
+238-67-2398
+34
+1
+S
+6.00
+38
+Harolds, Harold
+450-69-2323
+38
+4
+O
+3.05
+10
+Stevens, Thomas
+790-33-3498
+56
+7
+F
+9.5
+52
+Quentin, James
+889-12-3278
+51
+2
+F
+5.5
+32
+Zyros, Bhoutros
+999-45-1111
+49
+6
+O
+5.6
+70
